@@ -2,6 +2,6 @@
 /*
 /*.*
 !/*.ipynb
-
+.DS_Store
 # But keep the .gitignore file
 !.gitignore
